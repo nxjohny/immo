@@ -15,10 +15,6 @@
     </parent>
 	
     <properties>
-        <file.encoding>UTF-8</file.encoding>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-
         <mongo-java-driver.version>3.3.0</mongo-java-driver.version>
         <spring-data-mongodb.version>1.9.4.RELEASE</spring-data-mongodb.version>
         <javax.ws.rs-api.version>2.0.1</javax.ws.rs-api.version>
